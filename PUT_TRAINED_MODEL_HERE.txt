@@ -1,0 +1,1 @@
+Run python train_model.py to create the trained model in this folder.

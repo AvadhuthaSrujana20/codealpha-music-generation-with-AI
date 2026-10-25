@@ -1,0 +1,1 @@
+Place your legally usable .mid or .midi training files in this folder.
